@@ -1,0 +1,2 @@
+# My Programming Language (#1 (in Go))
+I'm following a book called "Writing An Interpreter In Go" by Thorsten Ball. The book is available at [https://interpreterbook.com](https://interpreterbook.com). I'm using the book to learn Go and to create my own programming language. The book is very well written and easy to follow, and I highly recommend it to anyone interested in programming languages or Go. Feel free to check out my progress and code as I work through the book. 
